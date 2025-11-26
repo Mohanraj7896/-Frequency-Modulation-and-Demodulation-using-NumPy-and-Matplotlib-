@@ -91,9 +91,11 @@ plt.ylabel("Amplitude")
 plt.tight_layout()
 plt.show()
 ```
+
 __Tabulation:__
 <img width="1280" height="963" alt="image" src="https://github.com/user-attachments/assets/e546d5d9-5fa5-4e03-9853-3df3b71ee61e" />
 <img width="963" height="1280" alt="image" src="https://github.com/user-attachments/assets/8ee7d3f6-f382-4dec-b563-7cd0a0255fc6" />
+
 
 __Output:__
 <img width="1189" height="990" alt="image" src="https://github.com/user-attachments/assets/f10b4653-6b9f-44cb-a8d5-27a4b1f0a41f" />
