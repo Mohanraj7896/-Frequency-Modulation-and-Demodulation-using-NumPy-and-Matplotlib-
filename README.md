@@ -103,6 +103,7 @@ __Output:__
 
 __Result:__ 
 
-![WhatsApp Image 2025-11-23 at 07 37 58_72d5b9df](https://github.com/user-attachments/assets/8c0ad423-20b3-4a72-b7b2-c2b94bbae6fb)
+<img width="1280" height="657" alt="image" src="https://github.com/user-attachments/assets/9253e029-8b40-4833-af91-c7230d75e121" />
+
 
 
